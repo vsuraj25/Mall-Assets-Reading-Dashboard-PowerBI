@@ -1,5 +1,7 @@
 # Mall Asset Readings Analysis Dashboard
 
+![Dashboard](https://user-images.githubusercontent.com/55409076/257050466-877ac5a8-22ed-4617-91ee-804a738d1163.gif)
+
 ## Project Overview
 
 This repository presents an internship project that aims to create a comprehensive Power BI dashboard for analyzing and predicting readings and power consumption from DX (Direct Expansion) units and Fresh Air (FX) units in various malls across different cities in India. The project utilizes synthetic data to simulate real-life scenarios and demonstrate the practical applications of data analytics and predictive modeling in mall asset management.
