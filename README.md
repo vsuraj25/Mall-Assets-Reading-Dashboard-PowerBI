@@ -40,7 +40,7 @@ This internship project was designed to reflect real-life use cases faced by mal
 
 5. **Decision-Making Support:** The dashboard serves as a powerful decision-making tool for mall management. By presenting comprehensive visualizations and interactive charts, it provides a clear understanding of asset performance, allowing for data-driven decision-making in asset maintenance, scheduling, and energy management.
 
-## Project Context as an Internship Project
+## Project Details
 
 This project was undertaken as part of an internship program to provide practical exposure to data analysis and predictive modeling in the context of mall asset management. The use of synthetic data allowed for controlled experimentation without impacting real-life operations. The goal was to develop a sophisticated Power BI dashboard that showcased the capabilities of data analytics and predictive modeling to address real challenges faced by mall facilities.
 
